@@ -10,3 +10,9 @@ ssh_state에 을 붙이면 됨
 
 2번
 String 치환하는 %s를 사용해서 sublime과 emacs를 vim으로 치환
+
+
+
+3번
+4G로 4번째 줄로 이동 -> yw로 Version 단어를 복사 -> Y+P로 윗줄에 한행을 복사함 -> i로 Version 앞에 //을 붙여주고 esc로 다시 명령모드로 가서 C로 한행을 복사할때
+같이 복사된 string을 삭제 후 TODO 작성 => Debug부분도 동일
